@@ -1,0 +1,8 @@
+Finn-Code
+
+This product includes software developed by the OpenAI Codex project,
+licensed under the Apache License, Version 2.0. The Codex fork is included
+as the `codex/` Git submodule and retains its own license and notices.
+
+The interface bundles Inter and JetBrains Mono. Their font licenses are
+included alongside the font files in `assets/fonts/`.

@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Finn Code mobile AI harness"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Finn Code Flutter entry ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Finn Code"
+    }
+  ]
+}
